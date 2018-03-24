@@ -38,7 +38,7 @@ npm run test-requests
 ## Usage
 
 ```javascript
-const ThumborJS = require('thumborjs');
+const ThumborJS = require('thumbor');
 
 // Your encryption key may be NULL, but if so your links will be unsafe (this is definitely NOT RECOMMENDED).
 const myKey     = 'MY_KEY'; 
